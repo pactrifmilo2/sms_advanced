@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.example.message_app"
+    namespace = "com.elyudde.sms_advanced"
     compileSdkVersion 31
 
     compileOptions {
